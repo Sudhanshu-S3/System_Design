@@ -22,6 +22,9 @@ Examples include:
 * **Design a URL Shortener**
 * **Design a Trading System**
 * **Design a Ride-Sharing App (like Uber)**
+* **Design a LeetCode Like application**
+* **Design a Video Streaming Platform**
+* **Design a AI Interview prep Platform**
 * **Other**
 
 Note: All case studies have an HLD and LLD part.
